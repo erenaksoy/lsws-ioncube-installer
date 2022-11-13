@@ -1,5 +1,5 @@
 #!/bin/sh
-#ioncube php extension installer for litespeed web servers
+#ionCube Extension installer for PHP 8.1 LiteSpeed Servers
 wget https://downloads.ioncube.com/loader_downloads/ioncube_loaders_lin_x86-64.tar.gz
 tar -zxvf ioncube_loaders_lin_x86-64.tar.gz 
 cp ioncube/ioncube_loader_lin_8.1.so /usr/local/lsws/lsphp81/lib/php/20210902
